@@ -1,0 +1,86 @@
+body {
+	background-color: whitesmoke;
+	background-image:url(synapse.jpg);
+
+}
+
+h1{
+	color: darkred;
+	letter-spacing: 20px;
+	font-family:'Poiret One';
+	font-weight: bold;
+	font-size:80px;
+	}	
+
+#floater {
+	background-color:wheat;
+	padding:100px;
+	margin-top:300px;
+}
+
+.container1{
+	opacity:.8;
+}
+
+h4{
+	color:steelblue;
+	font-family:'Poiret One';
+	font-size:30px;
+	font-weight:bold;
+
+}
+
+h2 {
+
+	color:steelblue;
+	font-family:'Poiret One';
+	font-size:30px;
+	font-weight:bold;
+
+
+}
+
+img {
+	background-color:white;
+}
+
+.space-above{
+	margin-top:15px;
+
+}
+
+.sub {
+margin-top: 25px;
+padding-top: 5px;
+border-top:5px;
+}
+
+.navbar{
+	background-color:linen;
+	font-family: 'Poiret One';
+	font-size: 30px;
+	text-align:center;
+	}
+
+
+.nav-item {
+	padding-right: 50px;	
+}
+
+#past {
+	background-color:darkcyan;
+	opacity:.6;
+	padding: 50px;
+}
+
+#raja {
+	margin-top:50px;
+
+}
+
+.btn {
+
+	padding:10px;
+	font-family:'Poiret One';
+	
+}
