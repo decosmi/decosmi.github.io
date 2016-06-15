@@ -81,6 +81,14 @@ border-top:5px;
 .btn {
 
 	padding:10px;
+	margin-top:10px;
 	font-family:'Poiret One';
+	font-size:25px;
+	font-weight:bold;
+	background-color:whitesmoke;
+	border-color:saddlebrown;
+	border-style: dotted;
+	border-width:thin;
+	opacity:1;
 	
 }
